@@ -4,7 +4,7 @@ This project is meant to guide new users of node.js on how to achieve various ta
 
 ## Process
 
-Drafts / in progress versions of the guide are developed at [the wiki](https://github.com/onteria/NodeJS-Guide/wiki NodeJS Guide Wiki). When a part of the guide becomes finalized, it will be added to the git hub repository to be available for forking and cloning by others. 
+Drafts / in progress versions of the guide are developed at [the wiki](https://github.com/onteria/NodeJS-Guide/wiki). When a part of the guide becomes finalized, it will be added to the git hub repository to be available for forking and cloning by others. 
 
 ## License
 
